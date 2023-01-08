@@ -1,0 +1,50 @@
+fern
+palm
+orchid
+cactus
+succulent
+bamboo
+aloe vera
+ivy
+snake plant
+spider plant
+pothos
+rubber plant
+dracaena
+peace lily
+philodendron
+fiddle leaf fig
+weeping fig
+jade plant
+snake plant
+zebra plant
+bromeliad
+begonia
+coleus
+impatiens
+petunia
+marigold
+sunflower
+daisy
+rose
+tulip
+daffodil
+iris
+lily
+peony
+iris
+violet
+hibiscus
+rosemary
+basil
+mint
+oregano
+parsley
+thyme
+cilantro
+dill
+chives
+lavender
+lemongrass
+rose
+jasmine
